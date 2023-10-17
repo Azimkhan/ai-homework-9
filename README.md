@@ -1,7 +1,7 @@
 # ai-homework-9
 This projects consists of 2 parts:
 - `convert_to_lite.ipynb` notebook converts a dino-dragon model to a lite version so that it can be used with tflite runtime
-- a `Dockerfile` that build a docker image compatible with AWS Lambda so that the model can be deployed as a serverless function
+- a `Dockerfile` to builds a Docker image compatible with AWS Lambda so that the model can be deployed as a serverless function
 
 # Build and Deploy To AWS Lambda
 To build and deploy the model as a serverless function, follow these steps:
